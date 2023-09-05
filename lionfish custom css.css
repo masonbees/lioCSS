@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Castoro+Titling&display=swap');
+
+body {
+    background-image: repeating-linear-gradient(0deg, #3d0c5e, #3d0c5e 2px, transparent 2px, transparent);
+    background-size: 32px 32px;
+    background-color: #d2c3ad;
+    font-family: Abel;
+    color: black;
+}
